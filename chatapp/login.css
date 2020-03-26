@@ -1,0 +1,10 @@
+*{margin:0px; padding:0px;}
+
+#main {
+  width:200px;
+  margin:20px auto;
+}
+
+#main > h2{
+  text-align: center;
+}
